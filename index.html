@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fraud Assist</title>
+<style>
+:root{--bg:#f7f8fb;--card:#fff;--text:#162033;--muted:#667085;--line:#e4e7ec;--blue:#2563eb;--green:#15803d;--red:#b42318;--amber:#b54708}
+*{box-sizing:border-box} body{margin:0;font:14px/1.45 Inter,system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--text)}
+header{height:64px;background:#fff;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 28px}
+.brand{font-size:18px;font-weight:800}.sub{font-size:12px;color:var(--muted)}
+main{max-width:1180px;margin:0 auto;padding:28px;display:grid;grid-template-columns:320px 1fr;gap:20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 8px 24px rgba(16,24,40,.05)}
+.pad{padding:18px} h2,h3{margin:0 0 12px}.muted{color:var(--muted)}
+select,button{font:inherit} select{width:100%;padding:11px;border:1px solid var(--line);border-radius:9px;background:#fff}
+button{border:1px solid var(--line);background:#fff;border-radius:9px;padding:10px 13px;font-weight:700;cursor:pointer}
+button.primary{background:var(--blue);border-color:var(--blue);color:#fff} button.green{background:var(--green);border-color:var(--green);color:#fff}
+button.red{color:var(--red)} button:disabled{opacity:.45;cursor:not-allowed}
+.stack{display:grid;gap:12px}.row{display:flex;gap:9px;flex-wrap:wrap}.kv{display:grid;grid-template-columns:150px 1fr;gap:8px 14px}
+.label{font-size:11px;text-transform:uppercase;color:var(--muted);letter-spacing:.05em}
+.status{display:inline-flex;padding:4px 8px;border-radius:999px;background:#eef4ff;color:#1d4ed8;font-size:12px;font-weight:700}
+.status.safe{background:#fff7ed;color:var(--amber)} .status.ok{background:#ecfdf3;color:var(--green)}
+.evidence{display:grid;gap:10px;margin-top:12px}.e{border:1px solid var(--line);border-radius:10px;padding:12px}
+.e strong{display:block;margin-bottom:4px}.trace{background:#101828;color:#d0d5dd;border-radius:10px;padding:12px;font:12px ui-monospace,SFMono-Regular,Menlo,monospace;max-height:280px;overflow:auto}
+.empty{padding:30px;text-align:center;color:var(--muted)}
+.spinner{display:inline-block;width:14px;height:14px;border:2px solid #cbd5e1;border-top-color:#2563eb;border-radius:50%;animation:s .8s linear infinite;margin-right:6px}@keyframes s{to{transform:rotate(360deg)}}
+@media(max-width:850px){main{grid-template-columns:1fr;padding:16px}}
+</style>
+</head>
+<body>
+<header>
+  <div><div class="brand">Fraud Assist</div><div class="sub">Synthetic case investigation prototype</div></div>
+  <div id="provider" class="status">Checking service…</div>
+</header>
+
+<main>
+  <aside class="card pad">
+    <h3>Case</h3>
+    <div class="stack">
+      <select id="caseSelect"><option>Loading cases…</option></select>
+      <button id="runBtn" class="primary">Investigate case</button>
+      <div class="muted" id="caseMeta">Choose a case and run the agent.</div>
+      <hr style="border:0;border-top:1px solid var(--line);width:100%">
+      <button id="traceBtn" disabled>Refresh trace</button>
+      <a href="/docs" style="color:#2563eb;text-decoration:none;font-weight:700">Open API docs ↗</a>
+    </div>
+  </aside>
+
+  <section class="stack">
+    <div class="card pad">
+      <div style="display:flex;justify-content:space-between;gap:12px;align-items:start">
+        <div><h2>Investigation</h2><div class="muted">Evidence, recommendation, and approval state.</div></div>
+        <span id="outcome" class="status">Not run</span>
+      </div>
+      <div id="result" class="empty">No investigation yet.</div>
+    </div>
+
+    <div class="card pad">
+      <h3>Trace</h3>
+      <div id="trace" class="trace">No trace yet.</div>
+    </div>
+  </section>
+</main>
+
+<script>
+let currentActionId=null,currentCase=null;
+
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+
+async function json(url,opts){
+  const r=await fetch(url,opts);
+  const data=await r.json();
+  if(!r.ok) throw new Error(data.detail||JSON.stringify(data));
+  return data;
+}
+
+async function init(){
+  try{
+    const info=await json('/api-info');
+    const p=document.getElementById('provider');
+    p.textContent=info.provider;
+    p.className='status '+(info.provider==='OfflineProvider'?'safe':'ok');
+
+    const data=await json('/cases');
+    const sel=document.getElementById('caseSelect');
+    sel.innerHTML='';
+    data.cases.forEach(c=>{
+      const o=document.createElement('option');
+      o.value=c.case_id;
+      o.textContent=`${c.case_id} — ${c.issue}`;
+      sel.appendChild(o);
+    });
+    currentCase=sel.value;
+    updateMeta(data.cases.find(c=>c.case_id===currentCase));
+    sel.onchange=()=>{currentCase=sel.value;updateMeta(data.cases.find(c=>c.case_id===currentCase));clearView();}
+  }catch(e){
+    document.getElementById('provider').textContent='Service error';
+    document.getElementById('result').textContent=e.message;
+  }
+}
+function updateMeta(c){
+  document.getElementById('caseMeta').textContent=c?`Customer ${c.customer_id} · ${c.issue} · ${c.status}`:'';
+}
+function clearView(){
+  currentActionId=null;
+  document.getElementById('result').className='empty';
+  document.getElementById('result').textContent='No investigation yet.';
+  document.getElementById('outcome').textContent='Not run';
+  document.getElementById('trace').textContent='No trace yet.';
+  document.getElementById('traceBtn').disabled=true;
+}
+
+async function investigate(){
+  const btn=document.getElementById('runBtn');
+  btn.disabled=true; btn.innerHTML='<span class="spinner"></span>Running agent…';
+  try{
+    const r=await json('/investigate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({case_id:currentCase})});
+    currentActionId=r.proposed_action_id;
+    renderResult(r);
+    document.getElementById('traceBtn').disabled=false;
+    await loadTrace();
+  }catch(e){
+    document.getElementById('result').className='';
+    document.getElementById('result').innerHTML=`<div style="color:#b42318">${esc(e.message)}</div>`;
+  }finally{
+    btn.disabled=false;btn.textContent='Re-run investigation';
+  }
+}
+
+function renderResult(r){
+  const out=document.getElementById('outcome');
+  out.textContent=r.outcome==='safe_stop'?'Safe stop':'Recommendation';
+  out.className='status '+(r.outcome==='safe_stop'?'safe':'ok');
+
+  const evidence=(r.evidence||[]).map(e=>`
+    <div class="e">
+      <strong>${esc(e.source)}</strong>
+      <div class="muted">${esc(e.ref)}</div>
+      <div style="margin-top:5px">${esc(e.summary)}</div>
+    </div>`).join('');
+
+  let actions='';
+  if(r.requires_human_approval && r.proposed_action_id){
+    actions=`<div class="row" style="margin-top:14px">
+      <button class="green" onclick="approve()">Approve action</button>
+      <button class="red" onclick="rejectAction()">Reject</button>
+    </div>`;
+  }
+
+  document.getElementById('result').className='';
+  document.getElementById('result').innerHTML=`
+    <div class="kv" style="margin-top:18px">
+      <div class="label">Case</div><div>${esc(r.case_id)}</div>
+      <div class="label">Action</div><div><b>${esc(r.action||'None')}</b></div>
+      <div class="label">Confidence</div><div>${Number(r.confidence||0).toFixed(2)}</div>
+      <div class="label">Reason</div><div>${esc(r.rationale)}</div>
+      ${r.safe_stop_reason?`<div class="label">Stop reason</div><div>${esc(r.safe_stop_reason)}</div>`:''}
+    </div>
+    ${actions}
+    <h3 style="margin-top:22px">Evidence</h3>
+    <div class="evidence">${evidence||'<div class="muted">No evidence returned.</div>'}</div>`;
+}
+
+async function approve(){
+  if(!currentActionId)return;
+  try{
+    const r=await json('/approve',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
+      case_id:currentCase,action_id:currentActionId,approved_by:'demo-associate'
+    })});
+    alert(`Executed: ${r.action}`);
+    await loadTrace();
+  }catch(e){alert(e.message)}
+}
+async function rejectAction(){
+  if(!currentActionId)return;
+  try{
+    const r=await json('/reject',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
+      case_id:currentCase,action_id:currentActionId,rejected_by:'demo-associate',reason:'associate_rejected'
+    })});
+    alert(`Rejected: ${r.action}`);
+    await loadTrace();
+  }catch(e){alert(e.message)}
+}
+
+async function loadTrace(){
+  try{
+    const t=await json(`/trace/${encodeURIComponent(currentCase)}`);
+    document.getElementById('trace').textContent=t.map(x=>`${x.ts}  ${x.type.padEnd(10)} ${x.name}  ${JSON.stringify(x.detail)}`).join('\n')||'No trace.';
+  }catch(e){document.getElementById('trace').textContent=e.message}
+}
+
+document.getElementById('runBtn').onclick=investigate;
+document.getElementById('traceBtn').onclick=loadTrace;
+init();
+</script>
+</body>
+</html>
