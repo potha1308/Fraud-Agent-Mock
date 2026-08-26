@@ -1,0 +1,1010 @@
+{
+  "C-10001": {
+    "customer_id": "C-10001",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10002": {
+    "customer_id": "C-10002",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.77
+  },
+  "C-10003": {
+    "customer_id": "C-10003",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10004": {
+    "customer_id": "C-10004",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.87
+  },
+  "C-10005": {
+    "customer_id": "C-10005",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10006": {
+    "customer_id": "C-10006",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.9
+  },
+  "C-10007": {
+    "customer_id": "C-10007",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.43
+  },
+  "C-10008": {
+    "customer_id": "C-10008",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.43
+  },
+  "C-10009": {
+    "customer_id": "C-10009",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.43
+  },
+  "C-10010": {
+    "customer_id": "C-10010",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.43
+  },
+  "C-10011": {
+    "customer_id": "C-10011",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.43
+  },
+  "C-10012": {
+    "customer_id": "C-10012",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.43
+  },
+  "C-10013": {
+    "customer_id": "C-10013",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": 1,
+    "risk_score": 0.88
+  },
+  "C-10014": {
+    "customer_id": "C-10014",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": 1,
+    "risk_score": 0.89
+  },
+  "C-10015": {
+    "customer_id": "C-10015",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": 1,
+    "risk_score": 0.79
+  },
+  "C-10016": {
+    "customer_id": "C-10016",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": 1,
+    "risk_score": 0.96
+  },
+  "C-10017": {
+    "customer_id": "C-10017",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": 1,
+    "risk_score": 0.82
+  },
+  "C-10018": {
+    "customer_id": "C-10018",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": 1,
+    "risk_score": 0.82
+  },
+  "C-10019": {
+    "customer_id": "C-10019",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.87
+  },
+  "C-10020": {
+    "customer_id": "C-10020",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.94
+  },
+  "C-10021": {
+    "customer_id": "C-10021",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.8
+  },
+  "C-10022": {
+    "customer_id": "C-10022",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10023": {
+    "customer_id": "C-10023",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.96
+  },
+  "C-10024": {
+    "customer_id": "C-10024",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.93
+  },
+  "C-10025": {
+    "customer_id": "C-10025",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.61
+  },
+  "C-10026": {
+    "customer_id": "C-10026",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.61
+  },
+  "C-10027": {
+    "customer_id": "C-10027",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.61
+  },
+  "C-10028": {
+    "customer_id": "C-10028",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.61
+  },
+  "C-10029": {
+    "customer_id": "C-10029",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.61
+  },
+  "C-10030": {
+    "customer_id": "C-10030",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.61
+  },
+  "C-10031": {
+    "customer_id": "C-10031",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.17
+  },
+  "C-10032": {
+    "customer_id": "C-10032",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.17
+  },
+  "C-10033": {
+    "customer_id": "C-10033",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.25
+  },
+  "C-10034": {
+    "customer_id": "C-10034",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.2
+  },
+  "C-10035": {
+    "customer_id": "C-10035",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.11
+  },
+  "C-10036": {
+    "customer_id": "C-10036",
+    "new_device": false,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.2
+  },
+  "C-10037": {
+    "customer_id": "C-10037",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10038": {
+    "customer_id": "C-10038",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10039": {
+    "customer_id": "C-10039",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.8
+  },
+  "C-10040": {
+    "customer_id": "C-10040",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10041": {
+    "customer_id": "C-10041",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.81
+  },
+  "C-10042": {
+    "customer_id": "C-10042",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.95
+  },
+  "C-10043": {
+    "customer_id": "C-10043",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": null
+  },
+  "C-10044": {
+    "customer_id": "C-10044",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": null
+  },
+  "C-10045": {
+    "customer_id": "C-10045",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": null
+  },
+  "C-10046": {
+    "customer_id": "C-10046",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": null
+  },
+  "C-10047": {
+    "customer_id": "C-10047",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": null
+  },
+  "C-10048": {
+    "customer_id": "C-10048",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": null
+  },
+  "C-10049": {
+    "customer_id": "C-10049",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.87
+  },
+  "C-10050": {
+    "customer_id": "C-10050",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.95
+  },
+  "C-10051": {
+    "customer_id": "C-10051",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.79
+  },
+  "C-10052": {
+    "customer_id": "C-10052",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.96
+  },
+  "C-10053": {
+    "customer_id": "C-10053",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.95
+  },
+  "C-10054": {
+    "customer_id": "C-10054",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.79
+  },
+  "C-10055": {
+    "customer_id": "C-10055",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10056": {
+    "customer_id": "C-10056",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.86
+  },
+  "C-10057": {
+    "customer_id": "C-10057",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.77
+  },
+  "C-10058": {
+    "customer_id": "C-10058",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.93
+  },
+  "C-10059": {
+    "customer_id": "C-10059",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.87
+  },
+  "C-10060": {
+    "customer_id": "C-10060",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.87
+  },
+  "C-10061": {
+    "customer_id": "C-10061",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.9
+  },
+  "C-10062": {
+    "customer_id": "C-10062",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.89
+  },
+  "C-10063": {
+    "customer_id": "C-10063",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.77
+  },
+  "C-10064": {
+    "customer_id": "C-10064",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.77
+  },
+  "C-10065": {
+    "customer_id": "C-10065",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.82
+  },
+  "C-10066": {
+    "customer_id": "C-10066",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10067": {
+    "customer_id": "C-10067",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.96
+  },
+  "C-10068": {
+    "customer_id": "C-10068",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.87
+  },
+  "C-10069": {
+    "customer_id": "C-10069",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.77
+  },
+  "C-10070": {
+    "customer_id": "C-10070",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.81
+  },
+  "C-10071": {
+    "customer_id": "C-10071",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.88
+  },
+  "C-10072": {
+    "customer_id": "C-10072",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.94
+  },
+  "C-10073": {
+    "customer_id": "C-10073",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.81
+  },
+  "C-10074": {
+    "customer_id": "C-10074",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.96
+  },
+  "C-10075": {
+    "customer_id": "C-10075",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10076": {
+    "customer_id": "C-10076",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.9
+  },
+  "C-10077": {
+    "customer_id": "C-10077",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.87
+  },
+  "C-10078": {
+    "customer_id": "C-10078",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.83
+  },
+  "C-10079": {
+    "customer_id": "C-10079",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.89
+  },
+  "C-10080": {
+    "customer_id": "C-10080",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.95
+  },
+  "C-10081": {
+    "customer_id": "C-10081",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.92
+  },
+  "C-10082": {
+    "customer_id": "C-10082",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.94
+  },
+  "C-10083": {
+    "customer_id": "C-10083",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.8
+  },
+  "C-10084": {
+    "customer_id": "C-10084",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10085": {
+    "customer_id": "C-10085",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.85
+  },
+  "C-10086": {
+    "customer_id": "C-10086",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.79
+  },
+  "C-10087": {
+    "customer_id": "C-10087",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.91
+  },
+  "C-10088": {
+    "customer_id": "C-10088",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.96
+  },
+  "C-10089": {
+    "customer_id": "C-10089",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.95
+  },
+  "C-10090": {
+    "customer_id": "C-10090",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.88
+  },
+  "C-10091": {
+    "customer_id": "C-10091",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.88
+  },
+  "C-10092": {
+    "customer_id": "C-10092",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.79
+  },
+  "C-10093": {
+    "customer_id": "C-10093",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.94
+  },
+  "C-10094": {
+    "customer_id": "C-10094",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.9
+  },
+  "C-10095": {
+    "customer_id": "C-10095",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.89
+  },
+  "C-10096": {
+    "customer_id": "C-10096",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.78
+  },
+  "C-10097": {
+    "customer_id": "C-10097",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.52
+  },
+  "C-10098": {
+    "customer_id": "C-10098",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.52
+  },
+  "C-10099": {
+    "customer_id": "C-10099",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.52
+  },
+  "C-10100": {
+    "customer_id": "C-10100",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.52
+  },
+  "C-10101": {
+    "customer_id": "C-10101",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.52
+  },
+  "C-10102": {
+    "customer_id": "C-10102",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.52
+  },
+  "C-10103": {
+    "customer_id": "C-10103",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.89
+  },
+  "C-10104": {
+    "customer_id": "C-10104",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.91
+  },
+  "C-10105": {
+    "customer_id": "C-10105",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.78
+  },
+  "C-10106": {
+    "customer_id": "C-10106",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.91
+  },
+  "C-10107": {
+    "customer_id": "C-10107",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.79
+  },
+  "C-10108": {
+    "customer_id": "C-10108",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.89
+  },
+  "C-10109": {
+    "customer_id": "C-10109",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.79
+  },
+  "C-10110": {
+    "customer_id": "C-10110",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.94
+  },
+  "C-10111": {
+    "customer_id": "C-10111",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.89
+  },
+  "C-10112": {
+    "customer_id": "C-10112",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.94
+  },
+  "C-10113": {
+    "customer_id": "C-10113",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.92
+  },
+  "C-10114": {
+    "customer_id": "C-10114",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.93
+  },
+  "C-10115": {
+    "customer_id": "C-10115",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.88
+  },
+  "C-10116": {
+    "customer_id": "C-10116",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10117": {
+    "customer_id": "C-10117",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.94
+  },
+  "C-10118": {
+    "customer_id": "C-10118",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.9
+  },
+  "C-10119": {
+    "customer_id": "C-10119",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.86
+  },
+  "C-10120": {
+    "customer_id": "C-10120",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.83
+  },
+  "C-10121": {
+    "customer_id": "C-10121",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.91
+  },
+  "C-10122": {
+    "customer_id": "C-10122",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.81
+  },
+  "C-10123": {
+    "customer_id": "C-10123",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.86
+  },
+  "C-10124": {
+    "customer_id": "C-10124",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10125": {
+    "customer_id": "C-10125",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.92
+  },
+  "C-10126": {
+    "customer_id": "C-10126",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.88
+  },
+  "C-10127": {
+    "customer_id": "C-10127",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10128": {
+    "customer_id": "C-10128",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.79
+  },
+  "C-10129": {
+    "customer_id": "C-10129",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.82
+  },
+  "C-10130": {
+    "customer_id": "C-10130",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.84
+  },
+  "C-10131": {
+    "customer_id": "C-10131",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.76
+  },
+  "C-10132": {
+    "customer_id": "C-10132",
+    "new_device": true,
+    "impossible_travel": false,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.95
+  },
+  "C-10133": {
+    "customer_id": "C-10133",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.75
+  },
+  "C-10134": {
+    "customer_id": "C-10134",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.77
+  },
+  "C-10135": {
+    "customer_id": "C-10135",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.83
+  },
+  "C-10136": {
+    "customer_id": "C-10136",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.91
+  },
+  "C-10137": {
+    "customer_id": "C-10137",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.95
+  },
+  "C-10138": {
+    "customer_id": "C-10138",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.83
+  },
+  "C-10139": {
+    "customer_id": "C-10139",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.88
+  },
+  "C-10140": {
+    "customer_id": "C-10140",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.89
+  },
+  "C-10141": {
+    "customer_id": "C-10141",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.86
+  },
+  "C-10142": {
+    "customer_id": "C-10142",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.82
+  },
+  "C-10143": {
+    "customer_id": "C-10143",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.83
+  },
+  "C-10144": {
+    "customer_id": "C-10144",
+    "new_device": true,
+    "impossible_travel": true,
+    "credential_reset_hours_ago": null,
+    "risk_score": 0.9
+  }
+}

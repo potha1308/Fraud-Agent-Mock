@@ -1,0 +1,1382 @@
+{
+  "FR-00001": {
+    "scenario": "recommend_temporary_protection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00002": {
+    "scenario": "recommend_temporary_protection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00003": {
+    "scenario": "recommend_temporary_protection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00004": {
+    "scenario": "recommend_temporary_protection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00005": {
+    "scenario": "recommend_temporary_protection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00006": {
+    "scenario": "recommend_temporary_protection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00007": {
+    "scenario": "recommend_manual_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00008": {
+    "scenario": "recommend_manual_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00009": {
+    "scenario": "recommend_manual_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00010": {
+    "scenario": "recommend_manual_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00011": {
+    "scenario": "recommend_manual_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00012": {
+    "scenario": "recommend_manual_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00013": {
+    "scenario": "recommend_temporary_card_lock",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00014": {
+    "scenario": "recommend_temporary_card_lock",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00015": {
+    "scenario": "recommend_temporary_card_lock",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00016": {
+    "scenario": "recommend_temporary_card_lock",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00017": {
+    "scenario": "recommend_temporary_card_lock",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00018": {
+    "scenario": "recommend_temporary_card_lock",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00019": {
+    "scenario": "recommend_identity_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00020": {
+    "scenario": "recommend_identity_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00021": {
+    "scenario": "recommend_identity_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00022": {
+    "scenario": "recommend_identity_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00023": {
+    "scenario": "recommend_identity_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00024": {
+    "scenario": "recommend_identity_verification",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00025": {
+    "scenario": "recommend_specialist_review",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00026": {
+    "scenario": "recommend_specialist_review",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00027": {
+    "scenario": "recommend_specialist_review",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00028": {
+    "scenario": "recommend_specialist_review",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00029": {
+    "scenario": "recommend_specialist_review",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00030": {
+    "scenario": "recommend_specialist_review",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00031": {
+    "scenario": "recommend_no_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00032": {
+    "scenario": "recommend_no_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00033": {
+    "scenario": "recommend_no_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00034": {
+    "scenario": "recommend_no_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00035": {
+    "scenario": "recommend_no_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00036": {
+    "scenario": "recommend_no_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00037": {
+    "scenario": "missing_transaction",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00038": {
+    "scenario": "missing_transaction",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00039": {
+    "scenario": "missing_transaction",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00040": {
+    "scenario": "missing_transaction",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00041": {
+    "scenario": "missing_transaction",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00042": {
+    "scenario": "missing_transaction",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00043": {
+    "scenario": "missing_device",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00044": {
+    "scenario": "missing_device",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00045": {
+    "scenario": "missing_device",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00046": {
+    "scenario": "missing_device",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00047": {
+    "scenario": "missing_device",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00048": {
+    "scenario": "missing_device",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00049": {
+    "scenario": "transaction_timeout",
+    "tool_faults": {
+      "get_transaction": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00050": {
+    "scenario": "transaction_timeout",
+    "tool_faults": {
+      "get_transaction": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00051": {
+    "scenario": "transaction_timeout",
+    "tool_faults": {
+      "get_transaction": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00052": {
+    "scenario": "transaction_timeout",
+    "tool_faults": {
+      "get_transaction": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00053": {
+    "scenario": "transaction_timeout",
+    "tool_faults": {
+      "get_transaction": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00054": {
+    "scenario": "transaction_timeout",
+    "tool_faults": {
+      "get_transaction": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00055": {
+    "scenario": "device_timeout",
+    "tool_faults": {
+      "get_device_signals": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00056": {
+    "scenario": "device_timeout",
+    "tool_faults": {
+      "get_device_signals": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00057": {
+    "scenario": "device_timeout",
+    "tool_faults": {
+      "get_device_signals": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00058": {
+    "scenario": "device_timeout",
+    "tool_faults": {
+      "get_device_signals": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00059": {
+    "scenario": "device_timeout",
+    "tool_faults": {
+      "get_device_signals": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00060": {
+    "scenario": "device_timeout",
+    "tool_faults": {
+      "get_device_signals": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00061": {
+    "scenario": "contacts_timeout_degraded",
+    "tool_faults": {
+      "get_prior_contacts": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00062": {
+    "scenario": "contacts_timeout_degraded",
+    "tool_faults": {
+      "get_prior_contacts": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00063": {
+    "scenario": "contacts_timeout_degraded",
+    "tool_faults": {
+      "get_prior_contacts": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00064": {
+    "scenario": "contacts_timeout_degraded",
+    "tool_faults": {
+      "get_prior_contacts": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00065": {
+    "scenario": "contacts_timeout_degraded",
+    "tool_faults": {
+      "get_prior_contacts": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00066": {
+    "scenario": "contacts_timeout_degraded",
+    "tool_faults": {
+      "get_prior_contacts": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00067": {
+    "scenario": "policy_timeout",
+    "tool_faults": {
+      "get_policy": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00068": {
+    "scenario": "policy_timeout",
+    "tool_faults": {
+      "get_policy": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00069": {
+    "scenario": "policy_timeout",
+    "tool_faults": {
+      "get_policy": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00070": {
+    "scenario": "policy_timeout",
+    "tool_faults": {
+      "get_policy": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00071": {
+    "scenario": "policy_timeout",
+    "tool_faults": {
+      "get_policy": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00072": {
+    "scenario": "policy_timeout",
+    "tool_faults": {
+      "get_policy": "timeout"
+    },
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00073": {
+    "scenario": "policy_conflict",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "conflict"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00074": {
+    "scenario": "policy_conflict",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "conflict"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00075": {
+    "scenario": "policy_conflict",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "conflict"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00076": {
+    "scenario": "policy_conflict",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "conflict"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00077": {
+    "scenario": "policy_conflict",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "conflict"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00078": {
+    "scenario": "policy_conflict",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "conflict"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00079": {
+    "scenario": "policy_stale",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "stale"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00080": {
+    "scenario": "policy_stale",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "stale"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00081": {
+    "scenario": "policy_stale",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "stale"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00082": {
+    "scenario": "policy_stale",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "stale"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00083": {
+    "scenario": "policy_stale",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "stale"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00084": {
+    "scenario": "policy_stale",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "stale"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00085": {
+    "scenario": "policy_inactive",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "inactive"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00086": {
+    "scenario": "policy_inactive",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "inactive"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00087": {
+    "scenario": "policy_inactive",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "inactive"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00088": {
+    "scenario": "policy_inactive",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "inactive"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00089": {
+    "scenario": "policy_inactive",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "inactive"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00090": {
+    "scenario": "policy_inactive",
+    "tool_faults": {},
+    "policy_override": {
+      "status": "inactive"
+    },
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00091": {
+    "scenario": "unsupported_issue",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00092": {
+    "scenario": "unsupported_issue",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00093": {
+    "scenario": "unsupported_issue",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00094": {
+    "scenario": "unsupported_issue",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00095": {
+    "scenario": "unsupported_issue",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00096": {
+    "scenario": "unsupported_issue",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00097": {
+    "scenario": "low_confidence",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": 0.52,
+    "execution_fault": null
+  },
+  "FR-00098": {
+    "scenario": "low_confidence",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": 0.52,
+    "execution_fault": null
+  },
+  "FR-00099": {
+    "scenario": "low_confidence",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": 0.52,
+    "execution_fault": null
+  },
+  "FR-00100": {
+    "scenario": "low_confidence",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": 0.52,
+    "execution_fault": null
+  },
+  "FR-00101": {
+    "scenario": "low_confidence",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": 0.52,
+    "execution_fault": null
+  },
+  "FR-00102": {
+    "scenario": "low_confidence",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": 0.52,
+    "execution_fault": null
+  },
+  "FR-00103": {
+    "scenario": "duplicate_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_protection",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00104": {
+    "scenario": "duplicate_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_protection",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00105": {
+    "scenario": "duplicate_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_protection",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00106": {
+    "scenario": "duplicate_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_protection",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00107": {
+    "scenario": "duplicate_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_protection",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00108": {
+    "scenario": "duplicate_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_protection",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00109": {
+    "scenario": "action_not_allowed",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_card_lock",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00110": {
+    "scenario": "action_not_allowed",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_card_lock",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00111": {
+    "scenario": "action_not_allowed",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_card_lock",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00112": {
+    "scenario": "action_not_allowed",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_card_lock",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00113": {
+    "scenario": "action_not_allowed",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_card_lock",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00114": {
+    "scenario": "action_not_allowed",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "temporary_card_lock",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00115": {
+    "scenario": "unsupported_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "permanent_account_close",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00116": {
+    "scenario": "unsupported_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "permanent_account_close",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00117": {
+    "scenario": "unsupported_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "permanent_account_close",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00118": {
+    "scenario": "unsupported_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "permanent_account_close",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00119": {
+    "scenario": "unsupported_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "permanent_account_close",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00120": {
+    "scenario": "unsupported_action",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": "permanent_account_close",
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00121": {
+    "scenario": "provider_error",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "error",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00122": {
+    "scenario": "provider_error",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "error",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00123": {
+    "scenario": "provider_error",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "error",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00124": {
+    "scenario": "provider_error",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "error",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00125": {
+    "scenario": "provider_error",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "error",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00126": {
+    "scenario": "provider_error",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "error",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00127": {
+    "scenario": "malformed_model_output",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "malformed",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00128": {
+    "scenario": "malformed_model_output",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "malformed",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00129": {
+    "scenario": "malformed_model_output",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "malformed",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00130": {
+    "scenario": "malformed_model_output",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "malformed",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00131": {
+    "scenario": "malformed_model_output",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "malformed",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00132": {
+    "scenario": "malformed_model_output",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "malformed",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00133": {
+    "scenario": "execution_service_failure",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": "timeout"
+  },
+  "FR-00134": {
+    "scenario": "execution_service_failure",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": "timeout"
+  },
+  "FR-00135": {
+    "scenario": "execution_service_failure",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": "timeout"
+  },
+  "FR-00136": {
+    "scenario": "execution_service_failure",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": "timeout"
+  },
+  "FR-00137": {
+    "scenario": "execution_service_failure",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": "timeout"
+  },
+  "FR-00138": {
+    "scenario": "execution_service_failure",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": "timeout"
+  },
+  "FR-00139": {
+    "scenario": "human_rejection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00140": {
+    "scenario": "human_rejection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00141": {
+    "scenario": "human_rejection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00142": {
+    "scenario": "human_rejection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00143": {
+    "scenario": "human_rejection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  },
+  "FR-00144": {
+    "scenario": "human_rejection",
+    "tool_faults": {},
+    "policy_override": null,
+    "provider_behavior": "normal",
+    "forced_action": null,
+    "forced_confidence": null,
+    "execution_fault": null
+  }
+}

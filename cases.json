@@ -1,0 +1,1298 @@
+{
+  "FR-00001": {
+    "case_id": "FR-00001",
+    "customer_id": "C-10001",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 19,
+    "disputed_transaction_id": "TX-20001",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00002": {
+    "case_id": "FR-00002",
+    "customer_id": "C-10002",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 36,
+    "disputed_transaction_id": "TX-20002",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00003": {
+    "case_id": "FR-00003",
+    "customer_id": "C-10003",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 15,
+    "disputed_transaction_id": "TX-20003",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00004": {
+    "case_id": "FR-00004",
+    "customer_id": "C-10004",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 43,
+    "disputed_transaction_id": "TX-20004",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00005": {
+    "case_id": "FR-00005",
+    "customer_id": "C-10005",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 19,
+    "disputed_transaction_id": "TX-20005",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00006": {
+    "case_id": "FR-00006",
+    "customer_id": "C-10006",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 23,
+    "disputed_transaction_id": "TX-20006",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00007": {
+    "case_id": "FR-00007",
+    "customer_id": "C-10007",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 8,
+    "disputed_transaction_id": "TX-20007",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00008": {
+    "case_id": "FR-00008",
+    "customer_id": "C-10008",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 40,
+    "disputed_transaction_id": "TX-20008",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00009": {
+    "case_id": "FR-00009",
+    "customer_id": "C-10009",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 9,
+    "disputed_transaction_id": "TX-20009",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00010": {
+    "case_id": "FR-00010",
+    "customer_id": "C-10010",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 41,
+    "disputed_transaction_id": "TX-20010",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00011": {
+    "case_id": "FR-00011",
+    "customer_id": "C-10011",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 44,
+    "disputed_transaction_id": "TX-20011",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00012": {
+    "case_id": "FR-00012",
+    "customer_id": "C-10012",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 16,
+    "disputed_transaction_id": "TX-20012",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00013": {
+    "case_id": "FR-00013",
+    "customer_id": "C-10013",
+    "issue": "account_takeover_signal",
+    "opened_minutes_ago": 25,
+    "disputed_transaction_id": "TX-20013",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00014": {
+    "case_id": "FR-00014",
+    "customer_id": "C-10014",
+    "issue": "account_takeover_signal",
+    "opened_minutes_ago": 45,
+    "disputed_transaction_id": "TX-20014",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00015": {
+    "case_id": "FR-00015",
+    "customer_id": "C-10015",
+    "issue": "account_takeover_signal",
+    "opened_minutes_ago": 17,
+    "disputed_transaction_id": "TX-20015",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00016": {
+    "case_id": "FR-00016",
+    "customer_id": "C-10016",
+    "issue": "account_takeover_signal",
+    "opened_minutes_ago": 42,
+    "disputed_transaction_id": "TX-20016",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00017": {
+    "case_id": "FR-00017",
+    "customer_id": "C-10017",
+    "issue": "account_takeover_signal",
+    "opened_minutes_ago": 5,
+    "disputed_transaction_id": "TX-20017",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00018": {
+    "case_id": "FR-00018",
+    "customer_id": "C-10018",
+    "issue": "account_takeover_signal",
+    "opened_minutes_ago": 19,
+    "disputed_transaction_id": "TX-20018",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00019": {
+    "case_id": "FR-00019",
+    "customer_id": "C-10019",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 22,
+    "disputed_transaction_id": "TX-20019",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00020": {
+    "case_id": "FR-00020",
+    "customer_id": "C-10020",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 43,
+    "disputed_transaction_id": "TX-20020",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00021": {
+    "case_id": "FR-00021",
+    "customer_id": "C-10021",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 37,
+    "disputed_transaction_id": "TX-20021",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00022": {
+    "case_id": "FR-00022",
+    "customer_id": "C-10022",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 39,
+    "disputed_transaction_id": "TX-20022",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00023": {
+    "case_id": "FR-00023",
+    "customer_id": "C-10023",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 34,
+    "disputed_transaction_id": "TX-20023",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00024": {
+    "case_id": "FR-00024",
+    "customer_id": "C-10024",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 11,
+    "disputed_transaction_id": "TX-20024",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00025": {
+    "case_id": "FR-00025",
+    "customer_id": "C-10025",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 6,
+    "disputed_transaction_id": "TX-20025",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00026": {
+    "case_id": "FR-00026",
+    "customer_id": "C-10026",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 18,
+    "disputed_transaction_id": "TX-20026",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00027": {
+    "case_id": "FR-00027",
+    "customer_id": "C-10027",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 9,
+    "disputed_transaction_id": "TX-20027",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00028": {
+    "case_id": "FR-00028",
+    "customer_id": "C-10028",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 43,
+    "disputed_transaction_id": "TX-20028",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00029": {
+    "case_id": "FR-00029",
+    "customer_id": "C-10029",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 2,
+    "disputed_transaction_id": "TX-20029",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00030": {
+    "case_id": "FR-00030",
+    "customer_id": "C-10030",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 13,
+    "disputed_transaction_id": "TX-20030",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00031": {
+    "case_id": "FR-00031",
+    "customer_id": "C-10031",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 14,
+    "disputed_transaction_id": "TX-20031",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00032": {
+    "case_id": "FR-00032",
+    "customer_id": "C-10032",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 2,
+    "disputed_transaction_id": "TX-20032",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00033": {
+    "case_id": "FR-00033",
+    "customer_id": "C-10033",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 21,
+    "disputed_transaction_id": "TX-20033",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00034": {
+    "case_id": "FR-00034",
+    "customer_id": "C-10034",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 6,
+    "disputed_transaction_id": "TX-20034",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00035": {
+    "case_id": "FR-00035",
+    "customer_id": "C-10035",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 35,
+    "disputed_transaction_id": "TX-20035",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00036": {
+    "case_id": "FR-00036",
+    "customer_id": "C-10036",
+    "issue": "generic_fraud_review",
+    "opened_minutes_ago": 21,
+    "disputed_transaction_id": "TX-20036",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00037": {
+    "case_id": "FR-00037",
+    "customer_id": "C-10037",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 35,
+    "disputed_transaction_id": "TX-20037",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00038": {
+    "case_id": "FR-00038",
+    "customer_id": "C-10038",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 3,
+    "disputed_transaction_id": "TX-20038",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00039": {
+    "case_id": "FR-00039",
+    "customer_id": "C-10039",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 6,
+    "disputed_transaction_id": "TX-20039",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00040": {
+    "case_id": "FR-00040",
+    "customer_id": "C-10040",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 4,
+    "disputed_transaction_id": "TX-20040",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00041": {
+    "case_id": "FR-00041",
+    "customer_id": "C-10041",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 33,
+    "disputed_transaction_id": "TX-20041",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00042": {
+    "case_id": "FR-00042",
+    "customer_id": "C-10042",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 38,
+    "disputed_transaction_id": "TX-20042",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00043": {
+    "case_id": "FR-00043",
+    "customer_id": "C-10043",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 28,
+    "disputed_transaction_id": "TX-20043",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00044": {
+    "case_id": "FR-00044",
+    "customer_id": "C-10044",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 29,
+    "disputed_transaction_id": "TX-20044",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00045": {
+    "case_id": "FR-00045",
+    "customer_id": "C-10045",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 43,
+    "disputed_transaction_id": "TX-20045",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00046": {
+    "case_id": "FR-00046",
+    "customer_id": "C-10046",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 8,
+    "disputed_transaction_id": "TX-20046",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00047": {
+    "case_id": "FR-00047",
+    "customer_id": "C-10047",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 29,
+    "disputed_transaction_id": "TX-20047",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00048": {
+    "case_id": "FR-00048",
+    "customer_id": "C-10048",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 6,
+    "disputed_transaction_id": "TX-20048",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00049": {
+    "case_id": "FR-00049",
+    "customer_id": "C-10049",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 5,
+    "disputed_transaction_id": "TX-20049",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00050": {
+    "case_id": "FR-00050",
+    "customer_id": "C-10050",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 17,
+    "disputed_transaction_id": "TX-20050",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00051": {
+    "case_id": "FR-00051",
+    "customer_id": "C-10051",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 27,
+    "disputed_transaction_id": "TX-20051",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00052": {
+    "case_id": "FR-00052",
+    "customer_id": "C-10052",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 18,
+    "disputed_transaction_id": "TX-20052",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00053": {
+    "case_id": "FR-00053",
+    "customer_id": "C-10053",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 37,
+    "disputed_transaction_id": "TX-20053",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00054": {
+    "case_id": "FR-00054",
+    "customer_id": "C-10054",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 15,
+    "disputed_transaction_id": "TX-20054",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00055": {
+    "case_id": "FR-00055",
+    "customer_id": "C-10055",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 22,
+    "disputed_transaction_id": "TX-20055",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00056": {
+    "case_id": "FR-00056",
+    "customer_id": "C-10056",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 35,
+    "disputed_transaction_id": "TX-20056",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00057": {
+    "case_id": "FR-00057",
+    "customer_id": "C-10057",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 13,
+    "disputed_transaction_id": "TX-20057",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00058": {
+    "case_id": "FR-00058",
+    "customer_id": "C-10058",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 27,
+    "disputed_transaction_id": "TX-20058",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00059": {
+    "case_id": "FR-00059",
+    "customer_id": "C-10059",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 4,
+    "disputed_transaction_id": "TX-20059",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00060": {
+    "case_id": "FR-00060",
+    "customer_id": "C-10060",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 35,
+    "disputed_transaction_id": "TX-20060",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00061": {
+    "case_id": "FR-00061",
+    "customer_id": "C-10061",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 17,
+    "disputed_transaction_id": "TX-20061",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00062": {
+    "case_id": "FR-00062",
+    "customer_id": "C-10062",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 31,
+    "disputed_transaction_id": "TX-20062",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00063": {
+    "case_id": "FR-00063",
+    "customer_id": "C-10063",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 31,
+    "disputed_transaction_id": "TX-20063",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00064": {
+    "case_id": "FR-00064",
+    "customer_id": "C-10064",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 15,
+    "disputed_transaction_id": "TX-20064",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00065": {
+    "case_id": "FR-00065",
+    "customer_id": "C-10065",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 6,
+    "disputed_transaction_id": "TX-20065",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00066": {
+    "case_id": "FR-00066",
+    "customer_id": "C-10066",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 36,
+    "disputed_transaction_id": "TX-20066",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00067": {
+    "case_id": "FR-00067",
+    "customer_id": "C-10067",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 43,
+    "disputed_transaction_id": "TX-20067",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00068": {
+    "case_id": "FR-00068",
+    "customer_id": "C-10068",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 44,
+    "disputed_transaction_id": "TX-20068",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00069": {
+    "case_id": "FR-00069",
+    "customer_id": "C-10069",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 8,
+    "disputed_transaction_id": "TX-20069",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00070": {
+    "case_id": "FR-00070",
+    "customer_id": "C-10070",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 15,
+    "disputed_transaction_id": "TX-20070",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00071": {
+    "case_id": "FR-00071",
+    "customer_id": "C-10071",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 18,
+    "disputed_transaction_id": "TX-20071",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00072": {
+    "case_id": "FR-00072",
+    "customer_id": "C-10072",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 5,
+    "disputed_transaction_id": "TX-20072",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00073": {
+    "case_id": "FR-00073",
+    "customer_id": "C-10073",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 2,
+    "disputed_transaction_id": "TX-20073",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00074": {
+    "case_id": "FR-00074",
+    "customer_id": "C-10074",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 12,
+    "disputed_transaction_id": "TX-20074",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00075": {
+    "case_id": "FR-00075",
+    "customer_id": "C-10075",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 2,
+    "disputed_transaction_id": "TX-20075",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00076": {
+    "case_id": "FR-00076",
+    "customer_id": "C-10076",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 11,
+    "disputed_transaction_id": "TX-20076",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00077": {
+    "case_id": "FR-00077",
+    "customer_id": "C-10077",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 11,
+    "disputed_transaction_id": "TX-20077",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00078": {
+    "case_id": "FR-00078",
+    "customer_id": "C-10078",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 4,
+    "disputed_transaction_id": "TX-20078",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00079": {
+    "case_id": "FR-00079",
+    "customer_id": "C-10079",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 24,
+    "disputed_transaction_id": "TX-20079",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00080": {
+    "case_id": "FR-00080",
+    "customer_id": "C-10080",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 11,
+    "disputed_transaction_id": "TX-20080",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00081": {
+    "case_id": "FR-00081",
+    "customer_id": "C-10081",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 13,
+    "disputed_transaction_id": "TX-20081",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00082": {
+    "case_id": "FR-00082",
+    "customer_id": "C-10082",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 28,
+    "disputed_transaction_id": "TX-20082",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00083": {
+    "case_id": "FR-00083",
+    "customer_id": "C-10083",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 12,
+    "disputed_transaction_id": "TX-20083",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00084": {
+    "case_id": "FR-00084",
+    "customer_id": "C-10084",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 32,
+    "disputed_transaction_id": "TX-20084",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00085": {
+    "case_id": "FR-00085",
+    "customer_id": "C-10085",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 21,
+    "disputed_transaction_id": "TX-20085",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00086": {
+    "case_id": "FR-00086",
+    "customer_id": "C-10086",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 23,
+    "disputed_transaction_id": "TX-20086",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00087": {
+    "case_id": "FR-00087",
+    "customer_id": "C-10087",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 24,
+    "disputed_transaction_id": "TX-20087",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00088": {
+    "case_id": "FR-00088",
+    "customer_id": "C-10088",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 36,
+    "disputed_transaction_id": "TX-20088",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00089": {
+    "case_id": "FR-00089",
+    "customer_id": "C-10089",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 13,
+    "disputed_transaction_id": "TX-20089",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00090": {
+    "case_id": "FR-00090",
+    "customer_id": "C-10090",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 24,
+    "disputed_transaction_id": "TX-20090",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00091": {
+    "case_id": "FR-00091",
+    "customer_id": "C-10091",
+    "issue": "crypto_wallet_dispute",
+    "opened_minutes_ago": 34,
+    "disputed_transaction_id": "TX-20091",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00092": {
+    "case_id": "FR-00092",
+    "customer_id": "C-10092",
+    "issue": "crypto_wallet_dispute",
+    "opened_minutes_ago": 4,
+    "disputed_transaction_id": "TX-20092",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00093": {
+    "case_id": "FR-00093",
+    "customer_id": "C-10093",
+    "issue": "crypto_wallet_dispute",
+    "opened_minutes_ago": 36,
+    "disputed_transaction_id": "TX-20093",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00094": {
+    "case_id": "FR-00094",
+    "customer_id": "C-10094",
+    "issue": "crypto_wallet_dispute",
+    "opened_minutes_ago": 14,
+    "disputed_transaction_id": "TX-20094",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00095": {
+    "case_id": "FR-00095",
+    "customer_id": "C-10095",
+    "issue": "crypto_wallet_dispute",
+    "opened_minutes_ago": 23,
+    "disputed_transaction_id": "TX-20095",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00096": {
+    "case_id": "FR-00096",
+    "customer_id": "C-10096",
+    "issue": "crypto_wallet_dispute",
+    "opened_minutes_ago": 21,
+    "disputed_transaction_id": "TX-20096",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00097": {
+    "case_id": "FR-00097",
+    "customer_id": "C-10097",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 20,
+    "disputed_transaction_id": "TX-20097",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00098": {
+    "case_id": "FR-00098",
+    "customer_id": "C-10098",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 26,
+    "disputed_transaction_id": "TX-20098",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00099": {
+    "case_id": "FR-00099",
+    "customer_id": "C-10099",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 21,
+    "disputed_transaction_id": "TX-20099",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00100": {
+    "case_id": "FR-00100",
+    "customer_id": "C-10100",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 15,
+    "disputed_transaction_id": "TX-20100",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00101": {
+    "case_id": "FR-00101",
+    "customer_id": "C-10101",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 31,
+    "disputed_transaction_id": "TX-20101",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00102": {
+    "case_id": "FR-00102",
+    "customer_id": "C-10102",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 12,
+    "disputed_transaction_id": "TX-20102",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00103": {
+    "case_id": "FR-00103",
+    "customer_id": "C-10103",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 41,
+    "disputed_transaction_id": "TX-20103",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00104": {
+    "case_id": "FR-00104",
+    "customer_id": "C-10104",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 45,
+    "disputed_transaction_id": "TX-20104",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00105": {
+    "case_id": "FR-00105",
+    "customer_id": "C-10105",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 4,
+    "disputed_transaction_id": "TX-20105",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00106": {
+    "case_id": "FR-00106",
+    "customer_id": "C-10106",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 31,
+    "disputed_transaction_id": "TX-20106",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00107": {
+    "case_id": "FR-00107",
+    "customer_id": "C-10107",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 26,
+    "disputed_transaction_id": "TX-20107",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00108": {
+    "case_id": "FR-00108",
+    "customer_id": "C-10108",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 2,
+    "disputed_transaction_id": "TX-20108",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00109": {
+    "case_id": "FR-00109",
+    "customer_id": "C-10109",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 35,
+    "disputed_transaction_id": "TX-20109",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00110": {
+    "case_id": "FR-00110",
+    "customer_id": "C-10110",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 9,
+    "disputed_transaction_id": "TX-20110",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00111": {
+    "case_id": "FR-00111",
+    "customer_id": "C-10111",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 37,
+    "disputed_transaction_id": "TX-20111",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00112": {
+    "case_id": "FR-00112",
+    "customer_id": "C-10112",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 41,
+    "disputed_transaction_id": "TX-20112",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00113": {
+    "case_id": "FR-00113",
+    "customer_id": "C-10113",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 37,
+    "disputed_transaction_id": "TX-20113",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00114": {
+    "case_id": "FR-00114",
+    "customer_id": "C-10114",
+    "issue": "ach_transfer_anomaly",
+    "opened_minutes_ago": 30,
+    "disputed_transaction_id": "TX-20114",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00115": {
+    "case_id": "FR-00115",
+    "customer_id": "C-10115",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 35,
+    "disputed_transaction_id": "TX-20115",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00116": {
+    "case_id": "FR-00116",
+    "customer_id": "C-10116",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 20,
+    "disputed_transaction_id": "TX-20116",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00117": {
+    "case_id": "FR-00117",
+    "customer_id": "C-10117",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 7,
+    "disputed_transaction_id": "TX-20117",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00118": {
+    "case_id": "FR-00118",
+    "customer_id": "C-10118",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 15,
+    "disputed_transaction_id": "TX-20118",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00119": {
+    "case_id": "FR-00119",
+    "customer_id": "C-10119",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 28,
+    "disputed_transaction_id": "TX-20119",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00120": {
+    "case_id": "FR-00120",
+    "customer_id": "C-10120",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 39,
+    "disputed_transaction_id": "TX-20120",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00121": {
+    "case_id": "FR-00121",
+    "customer_id": "C-10121",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 26,
+    "disputed_transaction_id": "TX-20121",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00122": {
+    "case_id": "FR-00122",
+    "customer_id": "C-10122",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 26,
+    "disputed_transaction_id": "TX-20122",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00123": {
+    "case_id": "FR-00123",
+    "customer_id": "C-10123",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 40,
+    "disputed_transaction_id": "TX-20123",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00124": {
+    "case_id": "FR-00124",
+    "customer_id": "C-10124",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 3,
+    "disputed_transaction_id": "TX-20124",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00125": {
+    "case_id": "FR-00125",
+    "customer_id": "C-10125",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 12,
+    "disputed_transaction_id": "TX-20125",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00126": {
+    "case_id": "FR-00126",
+    "customer_id": "C-10126",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 3,
+    "disputed_transaction_id": "TX-20126",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00127": {
+    "case_id": "FR-00127",
+    "customer_id": "C-10127",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 43,
+    "disputed_transaction_id": "TX-20127",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00128": {
+    "case_id": "FR-00128",
+    "customer_id": "C-10128",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 18,
+    "disputed_transaction_id": "TX-20128",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00129": {
+    "case_id": "FR-00129",
+    "customer_id": "C-10129",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 26,
+    "disputed_transaction_id": "TX-20129",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00130": {
+    "case_id": "FR-00130",
+    "customer_id": "C-10130",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 7,
+    "disputed_transaction_id": "TX-20130",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00131": {
+    "case_id": "FR-00131",
+    "customer_id": "C-10131",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 24,
+    "disputed_transaction_id": "TX-20131",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00132": {
+    "case_id": "FR-00132",
+    "customer_id": "C-10132",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 4,
+    "disputed_transaction_id": "TX-20132",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00133": {
+    "case_id": "FR-00133",
+    "customer_id": "C-10133",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 11,
+    "disputed_transaction_id": "TX-20133",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00134": {
+    "case_id": "FR-00134",
+    "customer_id": "C-10134",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 15,
+    "disputed_transaction_id": "TX-20134",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00135": {
+    "case_id": "FR-00135",
+    "customer_id": "C-10135",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 40,
+    "disputed_transaction_id": "TX-20135",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00136": {
+    "case_id": "FR-00136",
+    "customer_id": "C-10136",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 12,
+    "disputed_transaction_id": "TX-20136",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00137": {
+    "case_id": "FR-00137",
+    "customer_id": "C-10137",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 38,
+    "disputed_transaction_id": "TX-20137",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00138": {
+    "case_id": "FR-00138",
+    "customer_id": "C-10138",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 14,
+    "disputed_transaction_id": "TX-20138",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00139": {
+    "case_id": "FR-00139",
+    "customer_id": "C-10139",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 8,
+    "disputed_transaction_id": "TX-20139",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00140": {
+    "case_id": "FR-00140",
+    "customer_id": "C-10140",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 9,
+    "disputed_transaction_id": "TX-20140",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00141": {
+    "case_id": "FR-00141",
+    "customer_id": "C-10141",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 44,
+    "disputed_transaction_id": "TX-20141",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00142": {
+    "case_id": "FR-00142",
+    "customer_id": "C-10142",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 28,
+    "disputed_transaction_id": "TX-20142",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00143": {
+    "case_id": "FR-00143",
+    "customer_id": "C-10143",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 31,
+    "disputed_transaction_id": "TX-20143",
+    "status": "open",
+    "channel": "fraud_ops"
+  },
+  "FR-00144": {
+    "case_id": "FR-00144",
+    "customer_id": "C-10144",
+    "issue": "card_not_present_dispute",
+    "opened_minutes_ago": 43,
+    "disputed_transaction_id": "TX-20144",
+    "status": "open",
+    "channel": "fraud_ops"
+  }
+}

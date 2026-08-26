@@ -1,0 +1,43 @@
+{
+  "card_not_present_dispute": {
+    "policy_id": "P-CNP-17",
+    "version": "2026.08",
+    "status": "active",
+    "allowed_actions": [
+      "temporary_protection",
+      "request_identity_verification",
+      "specialist_review",
+      "no_action_monitor"
+    ]
+  },
+  "ach_transfer_anomaly": {
+    "policy_id": "P-ACH-04",
+    "version": "2026.08",
+    "status": "active",
+    "allowed_actions": [
+      "manual_verification",
+      "specialist_review",
+      "no_action_monitor"
+    ]
+  },
+  "account_takeover_signal": {
+    "policy_id": "P-ATO-09",
+    "version": "2026.08",
+    "status": "active",
+    "allowed_actions": [
+      "temporary_card_lock",
+      "request_identity_verification",
+      "specialist_review",
+      "no_action_monitor"
+    ]
+  },
+  "generic_fraud_review": {
+    "policy_id": "P-GEN-02",
+    "version": "2026.08",
+    "status": "active",
+    "allowed_actions": [
+      "specialist_review",
+      "no_action_monitor"
+    ]
+  }
+}
